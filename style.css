@@ -1,0 +1,48 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    background-color: #283149;
+}
+h1{
+    font-size: 4rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+h3{
+    text-align: center;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    
+}
+p{
+    text-align: center;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.alphabutt{
+    margin: 5% 10% 10% 10%;
+}
+.letter{
+    font-size: 4rem;
+    outline: none;
+    font-weight: 900;
+    font-family: 'Arvo', cursive;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 20px;
+    border: 10px solid #404B69;
+    line-height: 2;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;     
+}
+
